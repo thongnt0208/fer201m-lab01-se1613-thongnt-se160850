@@ -6,4 +6,4 @@ This is a project to practice Container and Presentation components.
 •	The data stores in ListOfFilms.js file.\
 •	Using map() for loop the data.\
 •	Using Container and Presentation components.\
-•	The UI looks attractive.\
+•	The UI looks attractive.
