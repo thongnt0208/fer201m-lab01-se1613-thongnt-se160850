@@ -1,5 +1,5 @@
-## A respository for Lab01 in FER201m subject at FPT University.
-## Discription:
+## A respository for Lab01 in FER201m subject which is about ReactJS at FPT University.
+### Discription:
 This is a project to practice Container and Presentation components.
 
 •	All the images put in a folder.\
